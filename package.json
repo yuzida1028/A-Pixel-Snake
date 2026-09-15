@@ -1,0 +1,17 @@
+{
+  "name": "pixel-snake-game",
+  "version": "1.0.0",
+  "description": "A local pixel-style Snake game built with Node.js, Canvas, HTML, CSS, and JavaScript.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "snake",
+    "canvas",
+    "game",
+    "pixel"
+  ],
+  "author": "",
+  "license": "MIT"
+}
